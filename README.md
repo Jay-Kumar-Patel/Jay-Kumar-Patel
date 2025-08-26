@@ -76,7 +76,7 @@ Welcome to my digital playground! I'm **Jay Patel**, a passionate Software Devel
 ### 🚀 Key Projects
 #### [RoomM8](https://github.com/Jay-Kumar-Patel/RoomM8)  
 A full-stack roommate collaboration platform for shared living management.  
-- Technologies: Java (Spring Boot), Next.js, MySQL, Docker, GitLab CI/CD, AWS
+- Technologies: AWS, Java (Spring Boot), Next.js, MySQL, Docker, GitLab CI/CD
 
 #### [QuickData Processor](https://github.com/Jay-Kumar-Patel/QuickDataProcessor)  
 A serverless, multi-cloud ETL platform for automated data processing and analytics.  
@@ -84,11 +84,11 @@ A serverless, multi-cloud ETL platform for automated data processing and analyti
 
 #### [Slackify](https://github.com/Jay-Kumar-Patel/Slackify)  
 A cloud-native GitHub-to-Slack integration platform for real-time collaboration.  
-- Technologies: Java (Spring Boot), AWS, Docker, CloudFormation, Slack API  
+- Technologies: AWS, Slack API, Docker, CloudFormation, Java (Spring Boot)  
 
 #### [KubeMicro](https://github.com/Jay-Kumar-Patel/KubeMicro)  
 Microservice-based application deployed on Kubernetes for scalability and reliability.  
-- Technologies: Java (Spring Boot), GKE, Docker, Terraform, GCP Cloud Build  
+- Technologies: Google Kubernetes Engine (GKE),  Terraform, GCP Cloud Build, Docker, Java (Spring Boot)  
 
 #### [TinyDB](https://github.com/Jay-Kumar-Patel/TinyDB)  
 A lightweight relational database engine built from scratch in Java.  
