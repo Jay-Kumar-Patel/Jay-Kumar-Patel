@@ -68,7 +68,7 @@ Welcome to my digital playground! I'm **Jay Patel**, a passionate Software Devel
 
 ### 💼 Experience
 - **Software Developer Co-op** (May 2025 - Present) | ApplyBoard.
-- **Full Stack Developer** (OCt 2023 - May 2024) | TronTechh LLC
+- **Full Stack Developer** (Oct 2023 - May 2024) | TronTechh LLC
 - **Android Developer Intern** (Feb 2023 – Aug 2023) | Galanto Innovations.
 
 ---
@@ -92,13 +92,7 @@ Microservice-based application deployed on Kubernetes for scalability and reliab
 
 #### [TinyDB](https://github.com/Jay-Kumar-Patel/TinyDB)  
 A lightweight relational database engine built from scratch in Java.  
-- Technologies: Core Java, SQL, ACID Transactions, CLI-based execution    
-
----
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Kumar-Patel&layout=compact&theme=radical)
+- Technologies: Core Java, SQL, ACID Transactions, CLI-based execution
 
 ---
 
