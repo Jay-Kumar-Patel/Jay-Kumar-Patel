@@ -78,7 +78,7 @@ Welcome to my digital playground! I'm **Jay Patel**, a passionate Software Devel
 A full-stack roommate collaboration platform for shared living management.  
 - Technologies: AWS, Java (Spring Boot), Next.js, MySQL, Docker, GitLab CI/CD
 
-#### [QuickData Processor](https://github.com/Jay-Kumar-Patel/QuickDataProcessor)  
+#### [QuickData Processor](https://github.com/Jay-Kumar-Patel/QuickData-Processor)  
 A serverless, multi-cloud ETL platform for automated data processing and analytics.  
 - Technologies: AWS, GCP, Terraform  
 
