@@ -18,9 +18,10 @@ Welcome to my digital playground! I'm **Jay Patel**, a passionate Software Devel
 ### 🛠️ Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-lightblue)
+![Go](https://img.shields.io/badge/Go-lightgreen)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-lightblue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple)
 ![C++](https://img.shields.io/badge/C++-blue)
 ![SQL](https://img.shields.io/badge/SQL-red)
@@ -30,12 +31,14 @@ Welcome to my digital playground! I'm **Jay Patel**, a passionate Software Devel
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Express.js](https://img.shields.io/badge/Express.js-blueviolet)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
+![Django](https://img.shields.io/badge/Django-darkgreen)
 ![Android Development](https://img.shields.io/badge/Android%20Development-3DDC84)
 
+![Redis](https://img.shields.io/badge/Redis-d82c1e)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900)
 ![GCP](https://img.shields.io/badge/GCP-4285F4)
@@ -59,6 +62,7 @@ Welcome to my digital playground! I'm **Jay Patel**, a passionate Software Devel
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-006400)
 ![Algorithms](https://img.shields.io/badge/Algorithms-8A2BE2)
 ![System Design](https://img.shields.io/badge/System%20Design-FF6347)
+![Kafka](https://img.shields.io/badge/Kafka-231F20)
 ![Microservices](https://img.shields.io/badge/Microservices-FF8C00)
 ![Agile](https://img.shields.io/badge/Agile-00CED1)
 ![SDLC](https://img.shields.io/badge/SDLC-32CD32)
